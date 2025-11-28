@@ -1,0 +1,20 @@
+streamlit>=1.20
+
+feedparser
+
+pillow
+
+python-magic-bin==0.4.27   # or python-magic on Linux
+
+piexif
+
+openai
+
+langdetect
+
+pdfkit
+
+reportlab
+
+tqdm
+
